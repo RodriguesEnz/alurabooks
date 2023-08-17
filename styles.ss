@@ -7,3 +7,4 @@ body{
 h1(
     backgroud-color:white;
 )
+:root 
